@@ -15,14 +15,36 @@ if not exist "%NGPACK%" (
     exit /b 1
 )
 
+echo Example paths:
+echo   Steam: C:\Program Files (x86)\Steam\steamapps\common\Thimbleweed Park
+echo   GOG:   C:\GOG Games\Thimbleweed Park
+echo.
+
+set "STEAM_DEFAULT=C:\Program Files (x86)\Steam\steamapps\common\Thimbleweed Park"
+set "GOG_DEFAULT=C:\GOG Games\Thimbleweed Park"
+
 if "%~1"=="" (
-    set /p GAME_DIR="Enter the game folder path (where ThimbleweedPark.ggpack1 is): "
+    set /p GAME_DIR="Enter the game folder path (press Enter to auto-detect Steam/GOG): "
 ) else (
-    set GAME_DIR=%~1
+    set "GAME_DIR=%~1"
 )
 
-set GGPACK=%GAME_DIR%\ThimbleweedPark.ggpack1
-set BACKUP=%GAME_DIR%\ThimbleweedPark.ggpack1.orig
+if "!GAME_DIR!"=="" (
+    if exist "!STEAM_DEFAULT!\ThimbleweedPark.ggpack1" (
+        set "GAME_DIR=!STEAM_DEFAULT!"
+        echo Auto-detected Steam install: !GAME_DIR!
+    ) else if exist "!GOG_DEFAULT!\ThimbleweedPark.ggpack1" (
+        set "GAME_DIR=!GOG_DEFAULT!"
+        echo Auto-detected GOG install: !GAME_DIR!
+    ) else (
+        echo Error: could not auto-detect the game folder. Run this script again and enter the path manually.
+        pause
+        exit /b 1
+    )
+)
+
+set "GGPACK=!GAME_DIR!\ThimbleweedPark.ggpack1"
+set "BACKUP=!GAME_DIR!\ThimbleweedPark.ggpack1.orig"
 
 if not exist "%GGPACK%" (
     echo Error: "%GGPACK%" not found. Check the path.
@@ -62,5 +84,6 @@ rmdir /s /q "%WORKDIR%"
 
 echo.
 echo Installation complete!
-echo In-game: Options ^> Language ^> German to see the Korean text.
+echo In-game: Options ^> Language, then pick "Korean Text" from the list to see the Korean text.
+echo (It replaces the entry that used to say "German Text".)
 pause

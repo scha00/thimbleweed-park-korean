@@ -10,11 +10,30 @@ echo ""
 echo "게임 앱을 Finder에서 우클릭 > '패키지 내용 보기'로 열면"
 echo "Contents/Resources 폴더 안에 ThimbleweedPark.ggpack1 파일이 있습니다."
 echo ""
+echo "예시 경로:"
+echo "  Steam: ~/Library/Application Support/Steam/steamapps/common/Thimbleweed Park/Thimbleweed Park.app/Contents/Resources"
+echo "  GOG:   /Applications/Thimbleweed Park.app/Contents/Resources"
+echo ""
+
+STEAM_DEFAULT="$HOME/Library/Application Support/Steam/steamapps/common/Thimbleweed Park/Thimbleweed Park.app/Contents/Resources"
+GOG_DEFAULT="/Applications/Thimbleweed Park.app/Contents/Resources"
 
 if [ -n "${1:-}" ]; then
   GAME_DIR="$1"
 else
-  read -rp "그 폴더(Resources) 경로를 입력하세요: " GAME_DIR
+  read -rp "그 폴더(Resources) 경로를 입력하세요 (Steam/GOG 기본 설치 위치라면 그냥 Enter): " GAME_DIR
+  if [ -z "$GAME_DIR" ]; then
+    if [ -f "$STEAM_DEFAULT/ThimbleweedPark.ggpack1" ]; then
+      GAME_DIR="$STEAM_DEFAULT"
+      echo "Steam 기본 경로에서 자동으로 찾았습니다: $GAME_DIR"
+    elif [ -f "$GOG_DEFAULT/ThimbleweedPark.ggpack1" ]; then
+      GAME_DIR="$GOG_DEFAULT"
+      echo "GOG 기본 경로에서 자동으로 찾았습니다: $GAME_DIR"
+    else
+      echo "오류: 기본 설치 경로에서 게임을 찾지 못했습니다. 스크립트를 다시 실행해서 경로를 직접 입력하세요."
+      exit 1
+    fi
+  fi
 fi
 
 GGPACK="$GAME_DIR/ThimbleweedPark.ggpack1"
@@ -52,4 +71,4 @@ cp "$WORKDIR/ThimbleweedPark.ggpack1" "$GGPACK"
 
 echo ""
 echo "설치 완료!"
-echo "게임을 실행해서 옵션 > 언어를 'German'으로 바꾸면 한글로 표시됩니다."
+echo "게임을 실행해서 옵션 > 언어(Language) 목록에서 'Korean Text'를 선택하면 한글로 표시됩니다."
