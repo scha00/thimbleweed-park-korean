@@ -9,4 +9,6 @@
 !/.github/
 !/docs/
 !/patch/
+!/tools/
+/tools/.dart_tool/
 !/*.md

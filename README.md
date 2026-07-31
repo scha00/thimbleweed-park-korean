@@ -38,6 +38,21 @@
 게임 폴더에 복사해 넣은 `ThimbleweedPark.ggpack4` 파일을 삭제하면 원래
 상태로 완전히 돌아갑니다.
 
+## 직접 빌드하기
+
+[Releases](https://github.com/scha00/thimbleweed-park-korean/releases)의
+`ThimbleweedPark.ggpack4`는 [`patch/`](patch) 폴더를 그대로 압축한 것뿐이라,
+[Dart SDK](https://dart.dev/get-dart)만 있으면 누구나 직접 빌드할 수 있습니다.
+
+```bash
+cd tools
+dart pub get
+dart run bin/build_pack.dart ../patch ../ThimbleweedPark.ggpack4
+```
+
+`patch/`를 고쳐서 오역을 수정하거나 새 파일을 추가한 뒤 바로 이 명령으로
+다시 빌드해서 테스트해볼 수 있습니다.
+
 ## 개발 히스토리
 
 ### v0.1 alpha (2026-07-29 ~ 2026-07-31)

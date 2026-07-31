@@ -1,0 +1,9 @@
+name: thimbleweed_korean_pack_tool
+description: Builds ThimbleweedPark.ggpack4 from the patch/ folder
+version: 0.0.1
+environment:
+  sdk: '>=2.12.0 <4.0.0'
+dependencies:
+  ngpack:
+    git:
+      url: https://github.com/scemino/ngpack.git
