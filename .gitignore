@@ -1,0 +1,11 @@
+# Deny-by-default: only explicitly allow-listed paths below are tracked.
+# This repo must NEVER contain the original game's assets (pack1/, pack2/,
+# pack1-font*/, pack1-png/, pack1-script/, pack1-translate/, original/, etc.)
+# Only the translation patch files and installer scripts are public.
+/*
+
+!/.gitignore
+!/.github/
+!/installer/
+!/docs/
+!/*.md

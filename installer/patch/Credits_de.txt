@@ -1,0 +1,266 @@
+Thimbleweed Park
+=
+A Terrible Toybox Production
+=
+{ 제작 }
+Ron Gilbert and Gary Winnick
+=
+{ 디자인 }
+Ron Gilbert and Gary Winnick
+with
+David Fox and Jenn Sandercock
+=
+{ 시나리오 }
+Ron Gilbert and Lauren Davidson
+=
+{ 추가 시나리오 }
+David Fox and Jenn Sandercock
+=
+{ 힌트트론 힌트는 다음 게임 가이드를 기반으로 함 }
+Meghann O'Neill
+=
+{ 게임 프로그래밍 }
+David Fox and Jenn Sandercock
+=
+{ 배경 아트 }
+Mark Ferrari
+with
+Octavi Navarro
+=
+{ 애니메이션 }
+Octavi Navarro and Gary Winnick
+=
+{ 사운드 }
+David Fox, Ron Gilbert, and Elise Kates
+=
+{ 음악 }
+Steve Kirk
+=
+{ 인벤토리 아트 }
+Gary Winnick
+=
+{ UI 폰트 디자인 }
+Sven Ruthner
+=
+{ 프로듀서 }
+Chase Martin
+with
+Jenn Sandercock
+=
+{ 리드 테스팅 }
+Robert Megone
+=
+{ 시니어 QA 테스팅 }
+Katerina Bergerova
+==
+{ QA 테스팅 }
+Christer Kaitila
+Mathew Kumar
+Mathias Neukam
+Stefan Fischer
+Concha Fernández
+=
+{ 번역 QA 테스팅 }
+Antonio Bellotta
+Stefano Sacchi
+Stefano Talarico
+Nacho López
+Alexander Makarov
+Arina Bedrina
+=
+{ 플레이 테스팅 }
+Sarah Herman
+Simon Frazer
+Jan Overgoor
+Sophie Mackey and Owen Macindoe
+Joanne Lau and Chris Proctor
+Daniel Lütolf-Carroll
+Feiya Wang and Pat Kemp
+Fayette Fox
+Danica Tyler
+Noah Falstein
+Melissa Jane Magee
+Peter Lane
+Brooke Condolora and David Condolora
+Jennifer Newell and Benjamin Newell
+Annie Fox
+Tim & Alexandra Swast
+=
+{ 엔진 프로그래밍 }
+Ron Gilbert
+with
+Malcolm Stead
+=
+{ 맥 프로그래밍 }
+Ron Gilbert
+=
+{ 윈도우 및 엑스박스 프로그래밍 }
+Malcolm Stead
+=
+{ 리눅스, 스위치, iOS 및 안드로이드 프로그래밍 }
+Joost Peters
+=
+{ 플레이스테이션 버전 }
+Kevin Wilson and Jeff Nachbaur
+
+{ 플레이스테이션 QA 프로젝트 관리 }
+Kiefer Richardson
+
+{ 플레이스테이션 리드 테스팅 }
+Matthew Mackey
+
+{ 플레이스테이션 테스팅 }
+Tim Gormley
+David Lush
+=
+{ 번역 }
+Boris Schneider-Johne   (German)
+Concha Fernández   (Spanish)
+Christophe Pallarès   (French)
+Fabio Bortolotti   (Italian)
+Alexander Preymak   (Russian)
+Heinrich Lenhardt   (German)
+=
+{ 홍보 }
+Emily Morganti
+
+{ 커뮤니티 관리 }
+Katie Postma
+
+{ 도움말 화면 디자인 }
+Jess Floyd
+
+{ 튜토리얼 컨설팅 }
+Matthew Moore
+=
+{ 오디오 캐스팅 }
+Khris Brown
+=
+{ 오디오 디렉팅 }
+Ron Gilbert
+=
+{ 출연 }
+Nicole Oliver - Ray
+Javier Lacroix - Reyes
+Elise Kates - Delores
+Alex Zahara - Franklin
+Ian Corlett - Ransome
+
+Adrian Petriw
+Craig Erickson
+Erin Matthews
+Gary Chalk
+Gunnar Bergmann
+Ian Rozylo
+Jan Rabson
+Jason Simpson
+Jennifer Cameron
+Kirby Morrow
+Lee Tockar
+Maria Larios
+Maryke Hendrikse
+Peter New
+Ron Halder
+Sarah Edmondson
+Tabitha St.Germain
+Veena Sood
+Vincent Tong
+=
+{ Recorded at Studio X Labs Vancouver }
+Engineering by
+Paul Ruskay
+Dialogue Editing by
+Greg Sabitz, Rob Plotnikoff
+=
+{ Additional recording at }
+Bad Animals Seattle
+Engineering by
+Julie Etheridge
+
+{ Additional recording at }
+toneworx GmbH Hamburg, Germany
+=
+{ 립싱크 (Rhubarb) }
+Daniel Wolf
+=
+{ iOS/Android 베타 테스터 }
+James Pujals, Stefano Emiliozzi
+Carlo Valenti, Fabio "Zak" Belli
+Marina Peluffo, Martin Dobson
+Sergi Sinyol, Katie Parsons
+Anders Thid, Emanuele Raza
+Toni Wenzel, André Krämer
+Petr Chaloupka, Juan Diego Gutiérrez Gallardo
+Emanuele Caldarella, Evan McLain
+Korhan Demirkaya, Jeff King, Shane Smitheram
+Patrik Spacek, Nick Ferguson, Maximilian Kreipe
+David L. Drummond, Marcus Jota
+Yehuda Sadeh-Weinraub, Arto Vartiainen
+Tim Lammert, Ben Stallings, Fabio Guggeri
+Simon Riedl, Siddesh G. Mysore
+=
+{ 촬영장 강아지 }
+Pep
+=
+{ 특별히 감사드립니다 }
+Vincent Hamm
+Craig Derrick
+Clayton Kauzlaric
+Chris Dwyer
+Jake Rodkin
+Sam Henman
+Lee Lin Fulin
+Franta Fulin
+Dave Grossman
+Brooke Condolora
+Daniel Cook
+and the
+Seattle Prototyping Meetup
+
+{ 더욱더 특별히 감사드립니다 }
+Cat Kennedy
+CG Dowsing
+Fred & Lily Dias and Jesse Sabey
+Ira B. and Ena Dauberman
+Jade Helm
+Ken Battié
+Michael Roupp
+Peter Weiss
+Rajeev Dujari
+Walter B. Benadof
+Kurt J Owen
+Mona J Owen
+Finley and Zaidee Owen
+and others
+
+그리고 우리와 팀블위드 파크를 믿어준 17,000명의 후원자들에게도.
+=
+플레이해주셔서 감사합니다
+=
+여러분이 그리울 겁니다
+=
+친구들에게도 이 게임을 사라고 알려주세요
+=
+그래야 저희가 진짜 직장을 안 구하고
+계속 게임을 만들 수 있으니까요
+=
+Thimbleweed Park is a trademark of Terrible Toybox, Inc.
+Copyright 2017 Terrible Toybox, Inc. All Rights Reserved.
+=
+=
+=
+ERROR: Reading past EOF
+=
+=
+ERROR: File (null) not found.
+=
+=
+ERROR: null pointer exception.
+=
+=
+ERROR: File EndCreditsTheme.wav not found.
+=
+=
+ERROR: Credits.txt not found.
+=
+=
