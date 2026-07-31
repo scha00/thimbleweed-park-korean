@@ -59,29 +59,13 @@ macOS Gatekeeper가 "확인되지 않은 개발자" 경고를 띄우면, 스크�
 
 ## Windows에서 설치
 
-Windows용 `ngpack.exe`는 아직 이 저장소에 포함돼 있지 않습니다 (이 프로젝트가
-Mac에서 개발되고 있어서, 지금 당장은 Windows용 바이너리를 직접 빌드할 수
-없습니다). 아래 둘 중 하나로 준비하세요.
+`installer/windows/ngpack.exe`가 이미 포함되어 있습니다. GitHub Actions의
+windows-latest 러너에서 [scemino/ngpack](https://github.com/scemino/ngpack)
+(BSD-3-Clause) 소스를 그대로 컴파일한 것입니다 — 빌드 워크플로는
+[`.github/workflows/build-ngpack.yml`](../.github/workflows/build-ngpack.yml)에
+있습니다. 다만 개발 환경이 Mac이라 이 실행 파일 자체를 실제 Windows에서
+직접 실행 테스트는 못 해봤습니다. 문제가 있으면 이슈로 알려주세요.
 
-**방법 A: 직접 빌드 (Windows PC + Dart SDK 필요)**
-```
-1. https://dart.dev/get-dart 에서 Dart SDK 설치
-2. git clone https://github.com/scemino/ngpack
-3. cd ngpack
-4. dart pub get
-5. dart compile exe bin/ngpack.dart -o ngpack.exe
-6. 만들어진 ngpack.exe를 installer/windows/ 폴더에 복사
-```
-(원본 `pubspec.yaml`의 `sdk: '>=2.12.0 <3.0.0'` 제약 때문에 최신 Dart에서
-`pub get`이 거부되면, 그 줄을 `sdk: '>=2.12.0 <4.0.0'` 정도로 한 줄만 고치면
-됩니다. scemino/ngpack은 BSD-3-Clause 라이선스라 이렇게 빌드해서 같이
-배포해도 문제 없습니다.)
-
-**방법 B: 나중에 GitHub Actions로 자동 빌드**
-저장소를 만들고 CI를 붙이면, windows-latest 러너에서 위 빌드를 자동으로
-해서 릴리스에 올릴 수 있습니다. 지금은 로컬 작업 단계라 보류.
-
-`ngpack.exe`가 준비되면:
 ```
 cd installer\windows
 install.bat "C:\Program Files (x86)\Steam\steamapps\common\Thimbleweed Park"
@@ -92,6 +76,10 @@ install.bat "C:\Program Files (x86)\Steam\steamapps\common\Thimbleweed Park"
 ```
 uninstall.bat "C:\Program Files (x86)\Steam\steamapps\common\Thimbleweed Park"
 ```
+
+`ngpack.exe`를 직접 다시 빌드하고 싶다면 GitHub 저장소의 Actions 탭에서
+"Build ngpack binaries" 워크플로를 수동 실행(workflow_dispatch)하면
+Windows/Linux 바이너리를 새로 뽑아낼 수 있습니다.
 
 ## 참고
 
