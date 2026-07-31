@@ -8,4 +8,5 @@
 !/.gitignore
 !/.github/
 !/docs/
+!/patch/
 !/*.md
