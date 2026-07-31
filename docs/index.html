@@ -11,11 +11,13 @@
   .btn:hover { background: #444; }
   code { background: #f0f0f0; padding: 2px 5px; border-radius: 4px; }
   .note { background: #fff8e1; border-left: 4px solid #f2c744; padding: 10px 14px; margin: 20px 0; }
+  .badge { display: inline-block; font-size: 0.85em; padding: 2px 8px; border-radius: 10px; background: #eee; color: #555; vertical-align: middle; margin-left: 8px; }
 </style>
 </head>
 <body>
-<h1>Thimbleweed Park 한글패치</h1>
-<p>Thimbleweed Park을 한국어로 즐길 수 있게 해주는 팬 번역 패치입니다.</p>
+<h1>Thimbleweed Park 한글패치 <span class="badge">v0.1 alpha</span></h1>
+<p>Thimbleweed Park을 한국어로 즐길 수 있게 해주는 팬 번역 패치입니다.
+텍스트 번역은 100% 끝났지만 아직 정식 검수(QA) 전인 초기 버전입니다.</p>
 
 <div class="note">
   이 페이지는 게임을 배포하지 않습니다. 정품으로 게임을 이미 소유한 사람이
@@ -32,7 +34,9 @@
 <ol>
   <li>게임 폴더에서 <code>ThimbleweedPark.ggpack1</code> 파일 위치를 찾는다</li>
   <li>Mac은 <code>install.sh</code>, Windows는 <code>install.bat</code> 실행</li>
-  <li>게임 옵션에서 언어를 <b>German</b>으로 변경하면 한글로 표시됨</li>
+  <li>게임 옵션의 언어(Language) 목록에서 <b>"Korean Text"</b>를 선택하면
+      한글로 표시됨 (원래 "German Text"였던 자리를 대체한 것으로, 내부적으로
+      독일어 슬롯을 그대로 사용합니다)</li>
 </ol>
 
 <h2>제거 방법</h2>
