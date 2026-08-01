@@ -30,4 +30,5 @@
 
 ## 문의 / 버그 제보
 
-https://github.com/scha00/thimbleweed-park-korean
+어색한 번역이나 버그를 발견하시면 GitHub Issues에 남겨주세요:
+https://github.com/scha00/thimbleweed-park-korean/issues
