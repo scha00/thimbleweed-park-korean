@@ -40,14 +40,18 @@
 
 ## 직접 빌드하기
 
-[Releases](https://github.com/scha00/thimbleweed-park-korean/releases)의
-`ThimbleweedPark.ggpack4`는 [`patch/`](patch) 폴더를 그대로 압축한 것뿐이라,
-[Dart SDK](https://dart.dev/get-dart)만 있으면 누구나 직접 빌드할 수 있습니다.
+[`install/ThimbleweedPark.ggpack4`](install)는 [`patch/`](patch) 폴더를
+그대로 압축한 것으로, `patch/`가 바뀌어 `main`에 푸시될 때마다 GitHub
+Actions가 자동으로 다시 빌드해서 항상 최신 상태로 유지합니다
+([`.github/workflows/build-pack.yml`](.github/workflows/build-pack.yml)).
+
+로컬에서 직접 빌드하고 싶다면 [Dart SDK](https://dart.dev/get-dart)만
+있으면 됩니다.
 
 ```bash
 cd tools
 dart pub get
-dart run bin/build_pack.dart ../patch ../ThimbleweedPark.ggpack4
+dart run bin/build_pack.dart ../patch ../install/ThimbleweedPark.ggpack4
 ```
 
 `patch/`를 고쳐서 오역을 수정하거나 새 파일을 추가한 뒤 바로 이 명령으로

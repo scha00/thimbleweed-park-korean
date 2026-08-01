@@ -11,4 +11,5 @@
 !/patch/
 !/tools/
 /tools/.dart_tool/
+!/install/
 !/*.md
