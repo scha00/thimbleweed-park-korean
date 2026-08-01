@@ -142,6 +142,35 @@
     font-size: 0.85em;
     color: var(--text-dim);
   }
+  .scope-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 14px;
+    margin-top: 16px;
+  }
+  .scope-col {
+    background: var(--bg-panel);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 16px 18px;
+    border-top: 3px solid var(--border);
+  }
+  .scope-col.done { border-top-color: #3fbf72; }
+  .scope-col.todo { border-top-color: var(--accent-dim); }
+  .scope-col h3 {
+    margin: 0 0 10px;
+    font-size: 1em;
+  }
+  .scope-col ul {
+    margin: 0;
+    padding-left: 1.2em;
+    color: var(--text-dim);
+    font-size: 0.92em;
+  }
+  .scope-col li { margin-bottom: 8px; }
+  .scope-col li:last-child { margin-bottom: 0; }
+  .scope-col li b { color: var(--text); font-weight: 600; }
+
   footer {
     color: var(--text-dim);
     font-size: 0.85em;
@@ -208,6 +237,28 @@
       <img src="screenshot-notebook.png" alt="손글씨 폰트로 표시된 한글 노트" loading="lazy">
       <figcaption>한글 글리프를 추가한 손글씨 폰트</figcaption>
     </figure>
+  </div>
+
+  <h2>한글화 범위</h2>
+  <div class="scope-grid">
+    <div class="scope-col done">
+      <h3>✅ 한글화된 것</h3>
+      <ul>
+        <li><b>대사·자막</b> 12,900여 줄 전체 번역</li>
+        <li><b>게임 UI</b> 동사, 인벤토리, 메뉴, 옵션 등</li>
+        <li><b>스탠드얼론 텍스트</b> 노트, 수첩, 척의 일지, 크레딧 등</li>
+        <li><b>폰트</b> 34종 전체에 한글 글리프 추가</li>
+        <li><b>진행에 중요한 이미지</b> 캐주얼/하드 모드 선택 화면, 엔딩 신문 헤드라인, 힌트트론 전단지</li>
+      </ul>
+    </div>
+    <div class="scope-col todo">
+      <h3>⏳ 한글화 안 된 것</h3>
+      <ul>
+        <li><b>배경 속 그림 텍스트</b> 간판, 낙서, 그 외 신문·전단지 등 (위 3종 제외, 이미지 픽셀에 직접 그려진 텍스트라 번역 범위 밖)</li>
+        <li><b>조작법 안내 화면</b> HelpScreen 39장 (진행 필수 아닌 튜토리얼)</li>
+        <li><b>일부 시스템 문자열</b> Save/Load 화면의 <code>(casual)</code>/<code>(hard)</code> 표기, <code>Autosave</code>, 날짜 포맷 등 — 게임 엔진 자체 버그로 한글 표시 불가</li>
+      </ul>
+    </div>
   </div>
 
   <h2>설치 방법</h2>
