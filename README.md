@@ -50,6 +50,13 @@
    한글로 표시됩니다 (원래 "German Text"였던 자리를 대체한 것으로, 내부적으로
    독일어 슬롯을 그대로 사용합니다).
 
+> **항상 최신 버전을 원한다면** Releases까지 안 기다리셔도 됩니다.
+> 저장소의 [`install/ThimbleweedPark.ggpack4`](install/ThimbleweedPark.ggpack4)가
+> `patch/`가 바뀔 때마다 GitHub Actions로 자동 재빌드되는 파일이라 항상
+> 최신 상태예요. 이 파일만 받아서 위 3번처럼 게임 폴더에 복사해도 됩니다.
+> Releases는 어느 정도 모여서 나오는 "정식" 버전 스냅샷이고, `install/`
+> 쪽이 매 순간의 최신입니다.
+
 `ggpack1`/`ggpack2`는 전혀 건드리지 않습니다. 게임 엔진이 원래
 `ggpack3`, `ggpack4`처럼 번호가 이어지는 추가 패키지 파일을 자동으로
 얹어서 읽는 기능을 지원해서(공식 "Ransome Uncensored" DLC도 `ggpack3`으로
