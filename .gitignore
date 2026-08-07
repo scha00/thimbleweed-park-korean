@@ -13,3 +13,4 @@
 /tools/.dart_tool/
 !/install/
 !/*.md
+/CLAUDE.md
