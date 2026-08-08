@@ -13,15 +13,20 @@
 
 ## A. 번역해야 할 이미지 시트
 
+이미지 자체를 한글화한 시트 목록/진행 상황은 `png-translate/MANIFEST.md`
+(작업 디렉터리 전용, git 미추적)에서 관리합니다. 2026-08-07 기준
+EasyHardModeSheet/NewspaperSheet/HintTronFlyerCUSheet/FanSupportNumberCUSheet/
+BStreetSheet/HardwareStoreSheet/CabinRoadSheet/CircusEntranceSheet/
+FactoryCorridor4Sheet/FactoryFrontSheet/FactorySheet/MMucasFlemAdSheet
+12개 완료, VerbSheet(36개 영역)·TitleCardsSheet(18개 영역)를 포함한 나머지는
+계속 진행 중입니다.
+
 | 시트 | 형식 | en 프레임/파일 수 | 비고 | 상태 |
 |---|---|---|---|---|
 | VerbSheet | 아틀라스 (VerbSheet.png/json) | 36개 (`close_en`, `open_en`, `pickup_en` 등 18개 동사 × modern/retro 2종) | 인터페이스 동사 버튼. `03_terminology_glossary.md`의 UI 동사 표기와 반드시 일치시킬 것 | [ ] |
-| EasyHardModeSheet | 아틀라스 | 1개 (`mode_text_en`) | 이지/하드 모드 선택 화면 텍스트 | [ ] |
-| MMucasFlemAdSheet | 아틀라스 | 1개 (`background_en`) | 딜로리스 파트 MMucasFlem 채용 광고 전단지 이미지 | [ ] |
-| NewspaperSheet | 아틀라스 | 1개 (`reyes_paper_text_en`) | 레예스가 보는 신문 텍스트 이미지 | [ ] |
 | TitleCardsSheet | 아틀라스 | 18개 (`part1_en`~`part9_en`, `part1_title_en`~`part9_title_en`) | 각 파트 시작 타이틀 카드("Part One: The Meeting" 류) | [ ] |
 | OpeningNoteSheet | 아틀라스, **주의** | en 접미사 프레임 없음 (`boris_note`, `ransome_note` — 언어 구분이 원래 없는 손글씨 이미지로 보임, 다른 언어(de/ru 등)에도 로컬라이즈된 버전이 있는지 먼저 확인 필요) | 오프닝의 보리스/랜섬 손글씨 메모 | [ ] |
-| HelpScreen_01_en ~ HelpScreen_49_en | 파일별 분리 (39개 파일, 번호 불연속: 01-16, 20-25, 30-36, 40-49) | 39개 파일 | 게임 내 도움말/튜토리얼 스크린샷형 이미지 | [ ] |
+| HelpScreen_01_en ~ HelpScreen_49_en | 파일별 분리 (39개 파일, 번호 불연속: 01-16, 20-25, 30-36, 40-49) | 39개 파일 | 게임 내 도움말/튜토리얼 스크린샷형 이미지, 낮은 우선순위 | [ ] |
 
 ## B. 고쳐야 할 폰트 (러시아어 글리프가 있는 것 = 실제 로컬라이즈 대상으로 확인된 것 전부)
 
@@ -58,5 +63,5 @@
 ---
 
 ## 진행률
-- A. 이미지 시트: **필수 아님으로 변경** (de→en 리다이렉트로 이미지는 이미 영어 폴백 처리됨, 진짜 한글화는 선택 사항으로 보류)
+- A. 이미지 시트: **12개 완료, 나머지 진행 중** (자세한 목록은 `png-translate/MANIFEST.md` 참고, de→en 리다이렉트라 미번역분은 영어로 정상 표시됨)
 - B. 폰트: **15/17 완료** (WalterTurncoat12/15만 사용자 판단으로 보류, 나머지 전부 완료)
