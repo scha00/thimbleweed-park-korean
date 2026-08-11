@@ -171,6 +171,64 @@
   .scope-col li:last-child { margin-bottom: 0; }
   .scope-col li b { color: var(--text); font-weight: 600; }
 
+  .other-project {
+    position: relative;
+    display: block;
+    border-radius: 14px;
+    overflow: hidden;
+    margin-top: 16px;
+    border: 1px solid var(--border);
+    text-decoration: none;
+    min-height: 160px;
+    background: #05060a;
+  }
+  .other-project img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+  }
+  .other-project:hover img { transform: scale(1.04); }
+  .other-project::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(90deg, rgba(5,6,10,0.92) 0%, rgba(5,6,10,0.55) 45%, rgba(5,6,10,0.15) 100%);
+  }
+  .other-project-body {
+    position: relative;
+    z-index: 1;
+    height: 100%;
+    padding: 20px 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 6px;
+  }
+  .other-project-title {
+    font-size: 1.4em;
+    font-weight: 800;
+    color: #fff;
+    letter-spacing: -0.01em;
+  }
+  .other-project-desc {
+    color: var(--text-dim);
+    font-size: 0.92em;
+    max-width: 46ch;
+  }
+  .other-project-cta {
+    margin-top: 8px;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    color: var(--accent);
+    font-weight: 700;
+    font-size: 0.9em;
+  }
+  .other-project:hover .other-project-cta { text-decoration: underline; }
+
   footer {
     color: var(--text-dim);
     font-size: 0.85em;
@@ -289,10 +347,14 @@
   삭제하면 원래 상태로 완전히 돌아갑니다.</p>
 
   <h2>다른 한글패치</h2>
-  <p>같은 제작자가 만든 다른 팬 한글화 프로젝트입니다.</p>
-  <div class="cta-row">
-    <a class="btn secondary" href="https://scha00.github.io/minds-beneath-us-korean/">Minds Beneath Us 한글패치</a>
-  </div>
+  <a class="other-project" href="https://scha00.github.io/minds-beneath-us-korean/">
+    <img src="mbu-banner.jpg" alt="Minds Beneath Us">
+    <div class="other-project-body">
+      <div class="other-project-title">Minds Beneath Us 한글패치</div>
+      <div class="other-project-desc">사이버펑크 비주얼 노벨 Minds Beneath Us를 한국어로 즐길 수 있게 해주는 팬 번역 패치입니다.</div>
+      <div class="other-project-cta">패치 보러 가기 →</div>
+    </div>
+  </a>
 
   <footer>
     Thimbleweed Park is a trademark of Terrible Toybox, Inc. 이 프로젝트는
