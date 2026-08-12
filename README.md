@@ -1,6 +1,6 @@
 # Thimbleweed Park 한글패치
 
-**v0.3 alpha** — Thimbleweed Park을 한국어로 즐길 수 있게 해주는 팬 번역
+**v0.4 alpha** — Thimbleweed Park을 한국어로 즐길 수 있게 해주는 팬 번역
 패치입니다. 텍스트 번역은 100% 끝났지만 아직 정식 검수(QA) 전인 초기
 버전입니다. 어색한 번역이나 버그를 발견하시면
 [Issues](https://github.com/scha00/thimbleweed-park-korean/issues)에
@@ -106,3 +106,8 @@ dart run bin/build_pack.dart ../patch ../install/ThimbleweedPark.ggpack4
   레이↔모레나·보안관 등 캐릭터별 말투 일관성 정리).
 - 상점 이름을 바꿔 부르는 대사가 새로 번역한 간판 이미지와 다른 표현을
   쓰고 있던 것을 통일.
+
+### v0.4 alpha (2026-08-11)
+
+- 파트 4까지 실제 플레이하며 검수한 번역 내용을 수정(주로 존댓말/반말
+  일관성, 호칭 오류 등 캐릭터별 말투 정리).
