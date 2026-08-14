@@ -1,6 +1,6 @@
 # Thimbleweed Park 한글패치
 
-**v0.9 beta** — Thimbleweed Park을 한국어로 즐길 수 있게 해주는 팬 번역
+**v0.95 beta** — Thimbleweed Park을 한국어로 즐길 수 있게 해주는 팬 번역
 패치입니다. 텍스트 번역은 100% 끝났고, 캐릭터 간 대화 존댓말/반말
 일관성 등 대사 검수도 상당 부분 마친 베타 버전입니다. 어색한 번역이나
 버그를 발견하시면
@@ -57,6 +57,34 @@
 게임 폴더에 복사해 넣은 `ThimbleweedPark.ggpack4` 파일을 삭제하면 원래
 상태로 완전히 돌아갑니다.
 
+## Delores 미니 어드벤처 한글패치
+
+Terrible Toybox가 무료로 배포한 후속 미니 게임
+[Delores: A Thimbleweed Park mini-adventure](https://store.steampowered.com/app/1286030/Delores_A_Thimbleweed_Park_miniadventure/)도
+같은 저장소에서 한글화하고 있습니다. 팀블위드 파크 본편 액트10 바로
+다음부터 이어지는 내용으로, 대사·UI 텍스트 전체(1,480여 줄)와 폰트
+6종에 한글 글리프를 병합해 번역을 마쳤습니다. 인트로 화면의 레퍼런스
+카드 이미지도 한글로 새로 그렸습니다.
+
+본편과는 완전히 별도의 게임(별도 Steam 페이지)이라 설치 파일도
+따로 배포합니다.
+
+1. [Releases](https://github.com/scha00/thimbleweed-park-korean/releases/latest)에서
+   `delores-korean.zip`을 받아 압축을 풉니다.
+2. `Delores.ggpack1`이 있는 게임 폴더(Steam 기준
+   `.../steamapps/common/Delores/`, Mac은 `Delores.app` 패키지 내용
+   보기 → `Contents/Resources/`)에 `Delores.ggpack4` 파일을 복사해
+   넣습니다.
+3. 게임을 실행하면 별도 설정 없이 바로 한글로 나옵니다(기본 언어인
+   English 슬롯 자체를 한글로 대체했습니다).
+
+자세한 설치/제거 방법은 [`delores/install/INSTALL.md`](delores/install/INSTALL.md)를,
+번역 원본 파일은 [`delores/patch/`](delores/patch)를 참고하세요.
+`delores/install/Delores.ggpack4`도 본편과 마찬가지로
+[`delores/patch/`](delores/patch)가 바뀔 때마다 GitHub Actions로
+자동 재빌드됩니다
+([`.github/workflows/build-delores-pack.yml`](.github/workflows/build-delores-pack.yml)).
+
 ## 직접 빌드하기
 
 [`install/ThimbleweedPark.ggpack4`](install)는 [`patch/`](patch) 폴더를
@@ -77,6 +105,12 @@ dart run bin/build_pack.dart ../patch ../install/ThimbleweedPark.ggpack4
 다시 빌드해서 테스트해볼 수 있습니다.
 
 ## 개발 히스토리
+
+### v0.95 beta (2026-08-13)
+
+- Delores: A Thimbleweed Park mini-adventure 한글화 추가(대사/UI
+  텍스트 전체, 폰트 6종 한글 글리프 병합, 인트로 레퍼런스 카드 이미지
+  번역). 본편과 별도 zip으로 배포.
 
 ### v0.9 beta (2026-08-12)
 

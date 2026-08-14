@@ -14,3 +14,12 @@
 !/install/
 !/*.md
 /CLAUDE.md
+
+# Delores mini-adventure sub-project - same deny-by-default rule applies.
+# delores/original/ (raw Delores.ggpack1) must NEVER be tracked; only the
+# transformative patch/install/fonts-korean work is allow-listed.
+!/delores/
+/delores/*
+!/delores/patch/
+!/delores/install/
+!/delores/fonts-korean/

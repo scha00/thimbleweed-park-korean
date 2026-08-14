@@ -1,0 +1,40 @@
+name: Rebuild Delores.ggpack4
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "delores/patch/**"
+      - "tools/**"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: dart-lang/setup-dart@v1
+
+      - name: Install dependencies
+        working-directory: tools
+        run: dart pub get
+
+      - name: Build Delores.ggpack4
+        working-directory: tools
+        run: dart run bin/build_delores_pack.dart ../delores/patch ../delores/install/Delores.ggpack4
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- delores/install/Delores.ggpack4; then
+            echo "No changes to delores/install/Delores.ggpack4"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add delores/install/Delores.ggpack4
+          git commit -m "Rebuild Delores.ggpack4 from delores/patch/ [skip ci]"
+          git push
