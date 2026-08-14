@@ -60,7 +60,7 @@
 ## Delores 미니 어드벤처 한글패치
 
 Terrible Toybox가 무료로 배포한 후속 미니 게임
-[Delores: A Thimbleweed Park mini-adventure](https://store.steampowered.com/app/1286030/Delores_A_Thimbleweed_Park_miniadventure/)도
+Delores: A Thimbleweed Park mini-adventure도
 같은 저장소에서 한글화하고 있습니다. 팀블위드 파크 본편 액트10 바로
 다음부터 이어지는 내용으로, 대사·UI 텍스트 전체(1,480여 줄)와 폰트
 6종에 한글 글리프를 병합해 번역을 마쳤습니다. 인트로 화면의 레퍼런스
