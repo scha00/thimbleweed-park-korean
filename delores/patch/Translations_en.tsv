@@ -412,29 +412,29 @@ id	text	en	loc
 11408	이건 나탈리한테 줄 만큼 역겹진 않은 것 같아.	I don't think this is disgusting enough for Natalie.	AStreet.dinky
 11409	냄새나는 쓰레기로 가득 차 있어.	Filled to the brim with smelly trash.	AStreet.dinky
 11410	팀블콘 광고	ThimbleCon advertisement	AStreet.dinky
-11411	a	a	AStreet.dinky
+11411		a	AStreet.dinky
 11412	공식 공지	official notice	AStreet.dinky
-11413	an	an	AStreet.dinky
+11413		an	AStreet.dinky
 11414	개인 광고	personals advertisement	AStreet.dinky
-11415	a	a	AStreet.dinky
+11415		a	AStreet.dinky
 11416	은행 광고	banking advertisement	AStreet.dinky
-11417	a	a	AStreet.dinky
+11417		a	AStreet.dinky
 11418	공익 광고	public service announcement	AStreet.dinky
-11419	a	a	AStreet.dinky
+11419		a	AStreet.dinky
 11420	필로우베어™ 광고	PillowBear™ advertisement	AStreet.dinky
-11421	a	a	AStreet.dinky
+11421		a	AStreet.dinky
 11422	배관 광고	plumbing advertisement	AStreet.dinky
-11423	a	a	AStreet.dinky
+11423		a	AStreet.dinky
 11424	만남 놓친 사람 찾기 광고	missed connection ad	AStreet.dinky
-11425	a	a	AStreet.dinky
+11425		a	AStreet.dinky
 11426	오래된 광고	old advertisement	AStreet.dinky
-11427	an	an	AStreet.dinky
+11427		an	AStreet.dinky
 11428	낡은 광고	weathered advertisement	AStreet.dinky
-11429	a	a	AStreet.dinky
+11429		a	AStreet.dinky
 11430	라디오 광고	radio advertisement	AStreet.dinky
-11431	a	a	AStreet.dinky
+11431		a	AStreet.dinky
 11432	공식 발표	official announcement	AStreet.dinky
-11433	an	an	AStreet.dinky
+11433		an	AStreet.dinky
 11434	우체국 문	Post Office door	AStreet.dinky
 11435	그 우체국 문	the Post Office door	AStreet.dinky
 11436	들어가기	Enter	AStreet.dinky
@@ -655,7 +655,7 @@ id	text	en	loc
 11651	감방 문	jail door	SheriffsOffice.dinky
 11652	그 감방 문	the jail door	SheriffsOffice.dinky
 11653	보안관과 검시관	Sheriff and Coroner	SheriffsOffice.dinky
-11654	the	the	SheriffsOffice.dinky
+11654		the	SheriffsOffice.dinky
 11655	다섯 시 막 지났네.	It's just after five o'clock.	Bank.dinky
 11656	이 그림 어디서 본 것 같은데.	I think I've seen this painting somewhere before.	Bank.dinky
 11657	인상적이네!	Impressive!	Bank.dinky
@@ -976,7 +976,7 @@ id	text	en	loc
 11978	오염된 물 한 컵	a glass of polluted water	Inventory.dinky
 11979	물 한 컵	a glass of water	Inventory.dinky
 11980	카메라	camera	Inventory.dinky
-11981	a	a	Inventory.dinky
+11981		a	Inventory.dinky
 11982	사진	photo	Inventory.dinky
 11983	내 과제	my assignment	Inventory.dinky
 11984	우표 붙은 전기세 고지서	electricity bill with stamps	Inventory.dinky
@@ -1347,9 +1347,9 @@ id	text	en	loc
 12349	지금 종료하면 이 사진 다섯 장의 진행 상황을 잃게 됩니다. 종료할까요?	Quit now and lose progress on these five photographs?	Options.dinky
 12350	아니요!	NO!	Options.dinky
 12351	종료	Quit	Options.dinky
-12352	the	the	DefineActors.dinky
-12353	the	the	DefineActors.dinky
-12354	a	a	CoronersOffice.dinky
+12352		the	DefineActors.dinky
+12353		the	DefineActors.dinky
+12354		a	CoronersOffice.dinky
 12355	아빠가 또 늦게까지 일하시나 보네.	Looks like Dad is working late again.	Vista.dinky
 12356	일하는 레노어	Lenore working	DefineActors.dinky
 12357	레노어	Lenore	DefineActors.dinky
@@ -1363,113 +1363,113 @@ id	text	en	loc
 12365	데이브와 불덩이들	Dave and the fireballs	Diner.dinky
 12366	신문 헤드라인	a newspaper headline	Nickel.dinky
 12367	저 사람은 확실히 전직 대통령은 아니야.	He's definitely not an ex-president.	CityHall.dinky
-12368	a	a	Nickel.dinky
-12369	a	a	Nickel.dinky
-12370	a	a	Nickel.dinky
-12371	a	a	Nickel.dinky
-12372	a	a	MainStreet.dinky
-12373	a	a	MainStreet.dinky
-12374	a	a	MainStreet.dinky
-12375	a	a	MainStreet.dinky
-12376	a	a	MainStreet.dinky
-12377	a	a	MainStreet.dinky
-12378	a	a	MainStreet.dinky
+12368		a	Nickel.dinky
+12369		a	Nickel.dinky
+12370		a	Nickel.dinky
+12371		a	Nickel.dinky
+12372		a	MainStreet.dinky
+12373		a	MainStreet.dinky
+12374		a	MainStreet.dinky
+12375		a	MainStreet.dinky
+12376		a	MainStreet.dinky
+12377		a	MainStreet.dinky
+12378		a	MainStreet.dinky
 12379	무는 식물	snapping plant	QuickiePal.dinky
 12380	식물	plant	QuickiePal.dinky
-12381	a	a	QuickiePal.dinky
-12382	a	a	QuickiePal.dinky
-12383	a	a	QuickiePal.dinky
-12384	a	a	QuickiePal.dinky
-12385	a	a	QuickiePal.dinky
-12386	a	a	QuickiePal.dinky
+12381		a	QuickiePal.dinky
+12382		a	QuickiePal.dinky
+12383		a	QuickiePal.dinky
+12384		a	QuickiePal.dinky
+12385		a	QuickiePal.dinky
+12386		a	QuickiePal.dinky
 12387	랜섬 사탕 디스펜서	Ransome candy dispensers	QuickiePal.dinky
-12388	a	a	PostOffice.dinky
-12389	a	a	PostOffice.dinky
-12390	a	a	PostOffice.dinky
-12391	a	a	PostOffice.dinky
-12392	a	a	PostOffice.dinky
-12393	a	a	CityHall.dinky
-12394	a	a	CityHall.dinky
-12395	a	a	CityHall.dinky
-12396	a	a	CityHall.dinky
-12397	a	a	CityHall.dinky
-12398	a	a	Alleyway.dinky
-12399	a	a	Alleyway.dinky
-12400	a	a	Alleyway.dinky
-12401	a	a	Alleyway.dinky
-12402	a	a	Alleyway.dinky
-12403	a	a	Alleyway.dinky
-12404	a	a	AStreet.dinky
-12405	a	a	AStreet.dinky
-12406	a	a	AStreet.dinky
-12407	a	a	AStreet.dinky
-12408	a	a	BookStore.dinky
-12409	a	a	BookStore.dinky
-12410	a	a	BookStore.dinky
-12411	a	a	BookStore.dinky
+12388		a	PostOffice.dinky
+12389		a	PostOffice.dinky
+12390		a	PostOffice.dinky
+12391		a	PostOffice.dinky
+12392		a	PostOffice.dinky
+12393		a	CityHall.dinky
+12394		a	CityHall.dinky
+12395		a	CityHall.dinky
+12396		a	CityHall.dinky
+12397		a	CityHall.dinky
+12398		a	Alleyway.dinky
+12399		a	Alleyway.dinky
+12400		a	Alleyway.dinky
+12401		a	Alleyway.dinky
+12402		a	Alleyway.dinky
+12403		a	Alleyway.dinky
+12404		a	AStreet.dinky
+12405		a	AStreet.dinky
+12406		a	AStreet.dinky
+12407		a	AStreet.dinky
+12408		a	BookStore.dinky
+12409		a	BookStore.dinky
+12410		a	BookStore.dinky
+12411		a	BookStore.dinky
 12412	시	poem	BookStore.dinky
 12413	쪽지	note	BookStore.dinky
-12414	a	a	BookStore.dinky
-12415	a	a	BookStore.dinky
-12416	a	a	Bathroom.dinky
-12417	a	a	Bathroom.dinky
-12418	a	a	Bathroom.dinky
-12419	a	a	Bathroom.dinky
-12420	a	a	Bathroom.dinky
-12421	a	a	Bathroom.dinky
-12422	a	a	Bathroom.dinky
-12423	a	a	Diner.dinky
-12424	a	a	Diner.dinky
-12425	a	a	Diner.dinky
-12426	a	a	Diner.dinky
-12427	a	a	Diner.dinky
-12428	a	a	SheriffsOffice.dinky
-12429	a	a	SheriffsOffice.dinky
-12430	a	a	SheriffsOffice.dinky
-12431	a	a	SheriffsOffice.dinky
-12432	a	a	SheriffsOffice.dinky
-12433	a	a	SheriffsOffice.dinky
-12434	a	a	SheriffsOffice.dinky
+12414		a	BookStore.dinky
+12415		a	BookStore.dinky
+12416		a	Bathroom.dinky
+12417		a	Bathroom.dinky
+12418		a	Bathroom.dinky
+12419		a	Bathroom.dinky
+12420		a	Bathroom.dinky
+12421		a	Bathroom.dinky
+12422		a	Bathroom.dinky
+12423		a	Diner.dinky
+12424		a	Diner.dinky
+12425		a	Diner.dinky
+12426		a	Diner.dinky
+12427		a	Diner.dinky
+12428		a	SheriffsOffice.dinky
+12429		a	SheriffsOffice.dinky
+12430		a	SheriffsOffice.dinky
+12431		a	SheriffsOffice.dinky
+12432		a	SheriffsOffice.dinky
+12433		a	SheriffsOffice.dinky
+12434		a	SheriffsOffice.dinky
 12435	서랍	drawer	SheriffsOffice.dinky
-12436	a	a	SheriffsOffice.dinky
+12436		a	SheriffsOffice.dinky
 12437	서랍	drawer	SheriffsOffice.dinky
-12438	a	a	SheriffsOffice.dinky
+12438		a	SheriffsOffice.dinky
 12439	서랍	drawer	SheriffsOffice.dinky
-12440	a	a	SheriffsOffice.dinky
+12440		a	SheriffsOffice.dinky
 12441	서랍	drawer	SheriffsOffice.dinky
-12442	a	a	SheriffsOffice.dinky
+12442		a	SheriffsOffice.dinky
 12443	서랍	drawer	SheriffsOffice.dinky
-12444	a	a	SheriffsOffice.dinky
+12444		a	SheriffsOffice.dinky
 12445	서랍	drawer	SheriffsOffice.dinky
-12446	a	a	SheriffsOffice.dinky
-12447	a	a	SheriffsOffice.dinky
-12448	a	a	SheriffsOffice.dinky
-12449	a	a	Bank.dinky
-12450	a	a	Bank.dinky
-12451	a	a	Bank.dinky
-12452	a	a	Bank.dinky
-12453	a	a	Bank.dinky
-12454	a	a	Bank.dinky
-12455	a	a	Vista.dinky
-12456	a	a	CoronersOffice.dinky
-12457	a	a	CoronersOffice.dinky
-12458	a	a	CoronersOffice.dinky
+12446		a	SheriffsOffice.dinky
+12447		a	SheriffsOffice.dinky
+12448		a	SheriffsOffice.dinky
+12449		a	Bank.dinky
+12450		a	Bank.dinky
+12451		a	Bank.dinky
+12452		a	Bank.dinky
+12453		a	Bank.dinky
+12454		a	Bank.dinky
+12455		a	Vista.dinky
+12456		a	CoronersOffice.dinky
+12457		a	CoronersOffice.dinky
+12458		a	CoronersOffice.dinky
 12459	서랍	drawer	CoronersOffice.dinky
-12460	a	a	CoronersOffice.dinky
+12460		a	CoronersOffice.dinky
 12461	서랍	drawer	CoronersOffice.dinky
-12462	a	a	CoronersOffice.dinky
+12462		a	CoronersOffice.dinky
 12463	서랍	drawer	CoronersOffice.dinky
-12464	a	a	CoronersOffice.dinky
-12465	a	a	Inventory.dinky
-12466	an	an	Inventory.dinky
-12467	an	an	Inventory.dinky
-12468	a	a	Inventory.dinky
-12469	a	a	Inventory.dinky
-12470	a	a	Inventory.dinky
-12471	a	a	Inventory.dinky
-12472	a	a	Inventory.dinky
-12473	a	a	Inventory.dinky
-12474	a	a	Inventory.dinky
+12464		a	CoronersOffice.dinky
+12465		a	Inventory.dinky
+12466		an	Inventory.dinky
+12467		an	Inventory.dinky
+12468		a	Inventory.dinky
+12469		a	Inventory.dinky
+12470		a	Inventory.dinky
+12471		a	Inventory.dinky
+12472		a	Inventory.dinky
+12473		a	Inventory.dinky
+12474		a	Inventory.dinky
 12475	가장 느림	slowest	Options.dinky
 12476	더 느림	slower	Options.dinky
 12477	느림	slow	Options.dinky
