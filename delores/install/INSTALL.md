@@ -10,8 +10,8 @@
      `~/Library/Application Support/Steam/steamapps/common/Delores/Delores.app`
      이 앱을 Finder에서 우클릭 → "패키지 내용 보기" → `Contents/Resources/`
      안에 있습니다.
-   - GOG 등 다른 버전도 폴더 구조는 비슷합니다. `Delores.ggpack1`
-     파일을 직접 찾으면 됩니다.
+   - **GOG 버전은 지원하지 않습니다.** 이 패치는 Steam 버전 전용이며
+     GOG 버전과는 호환되지 않습니다.
 
 2. 이 zip 안에 들어있는 `Delores.ggpack4` 파일을 위에서 찾은
    `Delores.ggpack1`이 있는 바로 그 폴더에 복사해 넣습니다.

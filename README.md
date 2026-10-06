@@ -69,6 +69,10 @@ Delores: A Thimbleweed Park mini-adventure도
 본편과는 완전히 별도의 게임(별도 Steam 페이지)이라 설치 파일도
 따로 배포합니다.
 
+> **Steam 버전 전용입니다.** Delores 패치는 **GOG 버전과 호환되지 않습니다**
+> (적용해도 한글로 나오지 않습니다). 본편 패치와 달리 Steam판 기준으로만
+> 만들고 확인했습니다.
+
 1. [Releases](https://github.com/scha00/thimbleweed-park-korean/releases/latest)에서
    `delores-korean.zip`을 받아 압축을 풉니다.
 2. `Delores.ggpack1`이 있는 게임 폴더(Steam 기준
