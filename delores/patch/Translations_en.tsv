@@ -2,7 +2,7 @@ id	text	en	loc
 10000	English	English
 10001	Default	Default
 11000	과제 다 끝난 것 같아.	I think I'm done with the assignment.	DefineActors.dinky
-11001	지금까지 한 거 한번 보실래요?	Want to take a look at my work so far?	DefineActors.dinky
+11001	지금까지 한 거 한번 볼래?	Want to take a look at my work so far?	DefineActors.dinky
 11002	보안관이 마지막으로 위험한 일을 한 건 거울 봤을 때였어.	The last time the Sheriff did anything dangerous was looking in the mirror.	DefineActors.dinky
 11003	보안관 혼자 나온 사진으론 나탈리한테 안 통해.	A photo of the Sheriff by himself won't work for Natalie.	DefineActors.dinky
 11004	검시관 혼자 나온 사진으론 나탈리한테 안 통해.	A photo of the Coroner by himself won't work for Natalie.	DefineActors.dinky
@@ -43,7 +43,7 @@ id	text	en	loc
 11039	조지	George	DefineActors.dinky
 11040	레노어	Lenore	DefineActors.dinky
 11041	피터	Peter	DefineActors.dinky
-11042	처키	Chuckie	DefineActors.dinky
+11042	척키	Chuckie	DefineActors.dinky
 11043	척 에드먼드, 정신병원에 수용되다...	Chuck Edmund committed to sanitarium...	Nickel.dinky
 11044	척은 자신이 컴퓨터의 일부라고 믿는 정신 착란을 일으킨 후 수용되었다.	Chuck committed after a psychotic breakdown due to believing he was part of a computer.	Nickel.dinky
 11045	윌리의 바이올린 수리점, 최고 수익 기록...	Willie's violin repair posts record profits...	Nickel.dinky
@@ -119,14 +119,14 @@ id	text	en	loc
 11115	저 안엔 옛날 기사들이 보물창고처럼 들어있겠는데.	Must be a treasure trove of old stories in there.	Nickel.dinky
 11116	나탈리 말대로 서랍 안을 봐서 카메라가 여기 있는지 확인해야겠어.	I should look in the drawer and see if the camera is here, like Natalie said.	Nickel.dinky
 11117	문	door	Nickel.dinky
-11118	그 니켈 뉴스 문	the Nickel News door	Nickel.dinky
+11118	니켈 뉴스 문	the Nickel News door	Nickel.dinky
 11119	나가기	Leave	Nickel.dinky
 11120	니켈 뉴스 나가기	Leave the Nickel	Nickel.dinky
 11121	표지판	sign	Nickel.dinky
 11122	인쇄기	printing press	Nickel.dinky
 11123	지도	map	Nickel.dinky
 11124	옛날 뉴스 사진들	old news photos	Nickel.dinky
-11125	그 옛날 뉴스 사진들	the old news photos	Nickel.dinky
+11125	옛날 뉴스 사진들	the old news photos	Nickel.dinky
 11126	서류함	file cabinet	Nickel.dinky
 11127	거리가 막혀 있는 것 같아.	The street looks blocked off.	MainStreet.dinky
 11128	진짜 냄새나긴 하는데, 나탈리한테 줄 만큼 역겨워 보이진 않는 것 같아.	It's really smelly, but I don't think this looks disgusting enough for Natalie.	MainStreet.dinky
@@ -134,7 +134,7 @@ id	text	en	loc
 11130	사진이 소화전에서 물 떨어지는 것보다는 나아야 해.	Photo needs to be better than water dripping from a fire hydrant.	MainStreet.dinky
 11131	완전 새는 소화전이네.	It's a very leaky fire hydrant.	MainStreet.dinky
 11132	더 이상 안 새!	No more leaks!	MainStreet.dinky
-11133	피전 자매님들네서 여름 알바 구할 수도 있겠는데!	I could get a summer job with the Pigeon Sisters!	MainStreet.dinky
+11133	피전 자매네서 여름 알바 구할 수도 있겠는데!	I could get a summer job with the Pigeon Sisters!	MainStreet.dinky
 11134	진짜 냄새나긴 하는데, 나탈리한테 줄 만큼 역겨워 보이진 않는 것 같아.	It's really smelly, but I don't think this looks disgusting enough for Natalie.	MainStreet.dinky
 11135	사진이 소화전에서 물 떨어지는 것보다는 나아야 해.	Photo needs to be better than water dripping from a fire hydrant.	MainStreet.dinky
 11136	진짜 냄새나긴 하는데, 나탈리한테 줄 만큼 역겨워 보이진 않는 것 같아.	It's really smelly, but I don't think this looks disgusting enough for Natalie.	MainStreet.dinky
@@ -170,30 +170,30 @@ id	text	en	loc
 11166	골목	alley	MainStreet.dinky
 11167	골목	an alley	MainStreet.dinky
 11168	문	door	MainStreet.dinky
-11169	그 다이너 문	the Diner door	MainStreet.dinky
+11169	다이너 문	the Diner door	MainStreet.dinky
 11170	들어가기	Enter	MainStreet.dinky
 11171	다이너 들어가기	Enter Diner	MainStreet.dinky
 11172	은행 문	bank door	MainStreet.dinky
-11173	그 은행 문	the bank door	MainStreet.dinky
+11173	은행 문	the bank door	MainStreet.dinky
 11174	들어가기	Enter	MainStreet.dinky
 11175	은행 들어가기	Enter bank	MainStreet.dinky
 11176	표지판	sign	MainStreet.dinky
 11177	구인 공고	a job posting	MainStreet.dinky
 11178	표지판	sign	MainStreet.dinky
-11179	그 팀블위드 파크 표지판	the Thimbleweed Park sign	MainStreet.dinky
-11180	그 고속도로	the highway	MainStreet.dinky
+11179	팀블위드 파크 표지판	the Thimbleweed Park sign	MainStreet.dinky
+11180	고속도로	the highway	MainStreet.dinky
 11181	시계 수리점 간판	watch repair sign	MainStreet.dinky
 11182	문	door	MainStreet.dinky
 11183	부동산 사무소	realtor's office	MainStreet.dinky
-11184	그 부동산 사무소	the realtor's office	MainStreet.dinky
+11184	부동산 사무소	the realtor's office	MainStreet.dinky
 11185	꽃집	flower shop	MainStreet.dinky
-11186	그 꽃집	the flower shop	MainStreet.dinky
+11186	꽃집	the flower shop	MainStreet.dinky
 11187	오픈 예정	Coming Soon	MainStreet.dinky
-11188	그 새 필로우베어™ 매장	the new PillowBear™ store	MainStreet.dinky
+11188	새 필로우베어™ 매장	the new PillowBear™ store	MainStreet.dinky
 11189	필로우베어™ 간판	PillowBear™ sign	MainStreet.dinky
 11190	변두리	outskirts	MainStreet.dinky
 11191	시청 문	City Hall door	MainStreet.dinky
-11192	그 시청 문	the City Hall door	MainStreet.dinky
+11192	시청 문	the City Hall door	MainStreet.dinky
 11193	들어가기	Enter	MainStreet.dinky
 11194	 시청	 City Hall	MainStreet.dinky
 11195	고깔 표지판	traffic cone	MainStreet.dinky
@@ -215,7 +215,7 @@ id	text	en	loc
 11211	랜섬 더 클라운 정말 대단하지 않아요? 완전 웃겨요.	How about that Ransome the Clown? He's so funny.	QuickiePal.dinky
 11212	독감 예방주사 맞는 거 잊지 마세요.	Don't forget to get your flu shot.	QuickiePal.dinky
 11213	유통기한 지난 우유 어때요? 정가에서 50% 할인이에요.	Want some expired milk? 50% off normal price.	QuickiePal.dinky
-11214	피전 자매님들이 우리 쥐 문제 해결해줘서 정말 다행이에요!	Sure glad the Pigeon Sisters got rid of our rat problem!	QuickiePal.dinky
+11214	피전 자매가 우리 쥐 문제 해결해줘서 정말 다행이에요!	Sure glad the Pigeon Sisters got rid of our rat problem!	QuickiePal.dinky
 11215	고급 가죽 재킷™ 사실래요?	Want to buy a Fine Leather Jacket™?	QuickiePal.dinky
 11216	어이쿠!	Yikes!	QuickiePal.dinky
 11217	어이쿠!	Yikes!	QuickiePal.dinky
@@ -234,7 +234,7 @@ id	text	en	loc
 11230	고객당 하나씩이에요. 회사 정책이라서요.	It's one per customer. Corporate policy.	QuickiePal.dinky
 11231	확실한 거면 해볼 텐데.	I'd play if it were a sure thing.	QuickiePal.dinky
 11232	퀴키팔 문	Quickie Pal door	QuickiePal.dinky
-11233	그 퀴키팔 문	the Quickie Pal door	QuickiePal.dinky
+11233	퀴키팔 문	the Quickie Pal door	QuickiePal.dinky
 11234	나가기	Leave	QuickiePal.dinky
 11235	퀴키팔 나가기	Leave the Quickie Pal	QuickiePal.dinky
 11236	우편 투입구	mail drop	QuickiePal.dinky
@@ -245,7 +245,7 @@ id	text	en	loc
 11241	쥐	rat	QuickiePal.dinky
 11242	랜섬 사탕 디스펜서	Ransome candy dispensers	QuickiePal.dinky
 11243	로또	Lotto	QuickiePal.dinky
-11244	그 로또 표지판	the Lotto sign	QuickiePal.dinky
+11244	로또 표지판	the Lotto sign	QuickiePal.dinky
 11245	아마 다른 게임의 퍼즐 해답이겠지.	Probably the solution to a puzzle in another game.	PostOffice.dinky
 11246	우편물 무게 재는 거네.	It's for weighing mail.	PostOffice.dinky
 11247	여기서 레너드의 전기세 고지서를 부칠 수 있겠어.	This is where I could mail Leonard's electricity bill.	PostOffice.dinky
@@ -266,7 +266,7 @@ id	text	en	loc
 11262	필로우베어™ 무더기네, 발송되길 기다리고 있어.	It's a bunch of PillowBears™, waiting to be mailed out.	PostOffice.dinky
 11263	그거 아빠 아이디어였는데!	That was Dad's idea!	PostOffice.dinky
 11264	문	door	PostOffice.dinky
-11265	그 우체국 문	the Post Office door	PostOffice.dinky
+11265	우체국 문	the Post Office door	PostOffice.dinky
 11266	나가기	Leave	PostOffice.dinky
 11267	우체국 나가기	Leave the Post Office	PostOffice.dinky
 11268	테이프	tape	PostOffice.dinky
@@ -284,7 +284,7 @@ id	text	en	loc
 11280	상자	boxes	PostOffice.dinky
 11281	차단돼 있어.	It's been shut off.	CityHall.dinky
 11282	작동해도 안 마실 거야.	Even if it was working, I wouldn't drink from it.	CityHall.dinky
-11283	팀블위드 삼군(三郡) 인장이네!	It's the Thimbleweed tri-county seal!	CityHall.dinky
+11283	팀블위드 트라이카운티 인장이네!	It's the Thimbleweed tri-county seal!	CityHall.dinky
 11284	위풍당당하네!	It's majestic!	CityHall.dinky
 11285	저 사람 어떤 노인네인데 죽은 게 거의 확실해.	That's some old dude who I'm pretty sure is dead. 	CityHall.dinky
 11286	누군지는 모르겠는데, 대통령 같아 보이진 않아.	I don't know who he is, but he doesn't look very presidential.	CityHall.dinky
@@ -295,11 +295,11 @@ id	text	en	loc
 11291	식수대	drinking fountain	CityHall.dinky
 11292	인장	seal	CityHall.dinky
 11293	보안관 사무실 문	Sheriff's Office door	CityHall.dinky
-11294	그 보안관 사무실 문	the Sheriff's Office door	CityHall.dinky
+11294	보안관 사무실 문	the Sheriff's Office door	CityHall.dinky
 11295	들어가기	Enter	CityHall.dinky
 11296	보안관 사무실 들어가기	Enter the Sheriff's Office	CityHall.dinky
 11297	검시관 사무실 문	Coroner's Office door	CityHall.dinky
-11298	그 검시관 사무실 문	the Coroner's Office door	CityHall.dinky
+11298	검시관 사무실 문	the Coroner's Office door	CityHall.dinky
 11299	들어가기	Enter	CityHall.dinky
 11300	검시관 사무실 들어가기	Enter the Coroner's Office	CityHall.dinky
 11301	그림	painting	CityHall.dinky
@@ -307,17 +307,17 @@ id	text	en	loc
 11303	이것들 진짜 소름 끼쳤는데. 꺼져서 다행이야.	These things were creepy. I'm glad they were deactivated.	QuickiePalOutside.dinky
 11304	이게 사람들 영화 대여 기록을 추적해서 정체불명의 회사들이랑 공유했다더라. **소름**	I heard they actually tracked your movie rentals and shared the information with unknown companies. **SHIVER**	QuickiePalOutside.dinky
 11305	퀴키팔 문	Quickie Pal door	QuickiePalOutside.dinky
-11306	그 퀴키팔 문	the Quickie Pal door	QuickiePalOutside.dinky
+11306	퀴키팔 문	the Quickie Pal door	QuickiePalOutside.dinky
 11307	들어가기	Enter	QuickiePalOutside.dinky
 11308	퀴키팔 들어가기	Enter the Quickie Pal	QuickiePalOutside.dinky
 11309	메인 스트리트	Main Street	QuickiePalOutside.dinky
 11310	화장실 문	bathroom door	QuickiePalOutside.dinky
-11311	그 화장실 문	the bathroom door	QuickiePalOutside.dinky
+11311	화장실 문	the bathroom door	QuickiePalOutside.dinky
 11312	들어가기	Enter	QuickiePalOutside.dinky
 11313	화장실 들어가기	Enter bathroom	QuickiePalOutside.dinky
 11314	전망	vista	QuickiePalOutside.dinky
 11315	무비트론 3000™	MovieTron 3000™	QuickiePalOutside.dinky
-11316	그 무비트론 3000™	the MovieTron 3000™	QuickiePalOutside.dinky
+11316	무비트론 3000™	the MovieTron 3000™	QuickiePalOutside.dinky
 11317	오래된 랜섬 더 클라운 포스터네.	It's an old Ransome the Clown poster.	Alleyway.dinky
 11318	그 사람의 훌륭한 풍자 공연이 제일 그리운 것 같아.	I think I miss his brilliant performance satire most of all.	Alleyway.dinky
 11319	좀 예술적이긴 한데, 나탈리가 이걸 원할 것 같진 않아.	Kind of artsy, but I don't think Natalie will want this one.	Alleyway.dinky
@@ -386,7 +386,7 @@ id	text	en	loc
 11382	레이저 앤 더 스커메츠, 더 히친 포스트에서 라이브 공연!	Razor and the Scummettes playing live at The Hitchin' Post!	AStreet.dinky
 11383	GT 앤 더 석션 컵스가 오프닝을 맡습니다.	Support by GT and the Suction Cups.	AStreet.dinky
 11384	밤새 기계 황소 타기 무료!	Mechanical bull rides free all night!	AStreet.dinky
-11385	스투펜더스 브라더스 이동 서커스	Stupendous Brothers Traveling Circus	AStreet.dinky
+11385	굉장한 형제들의 순회 서커스	Stupendous Brothers Traveling Circus	AStreet.dinky
 11386	헤드라인 공연 - 랜섬 더 클라운!	Headline Act - Ransome the Clown!	AStreet.dinky
 11387	가족 공연은 오후 2시에 시작합니다.	Family show starts at 2pm.	AStreet.dinky
 11388	지역 아티스트들의 가장 죽여주는 히트곡을 들으려면 KSCUM 198.7 FM으로 채널을 돌리세요!	Turn your dials to KSCUM 198.7 FM for the gnarliest hits from local artists!	AStreet.dinky
@@ -436,11 +436,11 @@ id	text	en	loc
 11432	공식 발표	official announcement	AStreet.dinky
 11433		an	AStreet.dinky
 11434	우체국 문	Post Office door	AStreet.dinky
-11435	그 우체국 문	the Post Office door	AStreet.dinky
+11435	우체국 문	the Post Office door	AStreet.dinky
 11436	들어가기	Enter	AStreet.dinky
 11437	우체국 들어가기	Enter Post Office	AStreet.dinky
 11438	니켈 뉴스 문	Nickel News door	AStreet.dinky
-11439	그 니켈 뉴스 문	the Nickel News door	AStreet.dinky
+11439	니켈 뉴스 문	the Nickel News door	AStreet.dinky
 11440	들어가기	Enter	AStreet.dinky
 11441	니켈 뉴스 들어가기	Enter Nickel News	AStreet.dinky
 11442	쪽지	note	AStreet.dinky
@@ -460,9 +460,9 @@ id	text	en	loc
 11456	메인 스트리트	Main Street	AStreet.dinky
 11457	병	bottle	AStreet.dinky
 11458	표지판	sign	AStreet.dinky
-11459	그 서점 세일 표지판	the bookstore sale sign	AStreet.dinky
+11459	서점 세일 표지판	the bookstore sale sign	AStreet.dinky
 11460	서점 문	bookstore door	AStreet.dinky
-11461	그 서점 문	the bookstore door	AStreet.dinky
+11461	서점 문	the bookstore door	AStreet.dinky
 11462	들어가기	Enter	AStreet.dinky
 11463	오컬트 서점 들어가기	Enter Occult Bookstore	AStreet.dinky
 11464	쓰레기 수거함	dumpster	AStreet.dinky
@@ -483,7 +483,7 @@ id	text	en	loc
 11479	'  - 해피 발렌타인데이'	“  - Happy Valentine's Day”	BookStore.dinky
 11480	어쩌고 저쩌고 저쩌고...	bla bla bla bla...	BookStore.dinky
 11481	문	door	BookStore.dinky
-11482	그 서점 문	the bookstore door	BookStore.dinky
+11482	서점 문	the bookstore door	BookStore.dinky
 11483	나가기	Leave	BookStore.dinky
 11484	서점 나가기	Leave the bookstore	BookStore.dinky
 11485	사다리	ladder	BookStore.dinky
@@ -526,7 +526,7 @@ id	text	en	loc
 11522	저긴 절대 안 들여다볼 거야, 여기서도 냄새가 나!	No way am I going to look in there, I can smell it from here!	Bathroom.dinky
 11523	너무 어두워서 안 보여.	It's too dark to see.	Bathroom.dinky
 11524	화장실 문	bathroom door	Bathroom.dinky
-11525	그 화장실 문	the bathroom door	Bathroom.dinky
+11525	화장실 문	the bathroom door	Bathroom.dinky
 11526	나가기	Leave	Bathroom.dinky
 11527	화장실 나가기	Leave bathroom	Bathroom.dinky
 11528	조명 스위치	light switch	Bathroom.dinky
@@ -567,7 +567,7 @@ id	text	en	loc
 11563	불이 엄청 많이 났네!	That's a lot of fire!	Diner.dinky
 11564	위험해 보이는데! 기사를 위해서라면야.	Looks dangerous! Anything for a story.	Diner.dinky
 11565	문	door	Diner.dinky
-11566	그 다이너 문	the Diner door	Diner.dinky
+11566	다이너 문	the Diner door	Diner.dinky
 11567	나가기	Leave	Diner.dinky
 11568	다이너 나가기	Leave the Diner	Diner.dinky
 11569	핫도그	hot dog	Diner.dinky
@@ -576,7 +576,7 @@ id	text	en	loc
 11572	핫도그	hot dog	Diner.dinky
 11573	라디오	radio	Diner.dinky
 11574	메뉴	menu	Diner.dinky
-11575	그 다이너 메뉴	the Diner menu	Diner.dinky
+11575	다이너 메뉴	the Diner menu	Diner.dinky
 11576	불덩이	fireballs	Diner.dinky
 11577	데이브와 불덩이들	Dave and the fireballs	Diner.dinky
 11578	그냥 서랍이네.	Just a drawer.	SheriffsOffice.dinky
@@ -639,8 +639,8 @@ id	text	en	loc
 11635	잠겨 있어.	It's locked.	SheriffsOffice.dinky
 11636	다들 저렇게 화나 있는데 그 사람을 풀어주고 싶진 않아.	I don't want to let him out while they are so upset.	SheriffsOffice.dinky
 11637	다들 화나 보이네.	They look upset.	SheriffsOffice.dinky
-11638	어레스트트론 3000™	ArrestTron 3000™	SheriffsOffice.dinky
-11639	그 어레스트트론 3000™	the ArrestTron 3000™	SheriffsOffice.dinky
+11638	아레스트트론 3000™	ArrestTron 3000™	SheriffsOffice.dinky
+11639	아레스트트론 3000™	the ArrestTron 3000™	SheriffsOffice.dinky
 11640	문	door	SheriffsOffice.dinky
 11641	나가기	Leave	SheriffsOffice.dinky
 11642	보안관 사무실 나가기	Leave the Sheriff's Office	SheriffsOffice.dinky
@@ -653,7 +653,7 @@ id	text	en	loc
 11649	열쇠	key	SheriffsOffice.dinky
 11650	라디오	radio	SheriffsOffice.dinky
 11651	감방 문	jail door	SheriffsOffice.dinky
-11652	그 감방 문	the jail door	SheriffsOffice.dinky
+11652	감방 문	the jail door	SheriffsOffice.dinky
 11653	보안관과 검시관	Sheriff and Coroner	SheriffsOffice.dinky
 11654		the	SheriffsOffice.dinky
 11655	다섯 시 막 지났네.	It's just after five o'clock.	Bank.dinky
@@ -674,7 +674,7 @@ id	text	en	loc
 11670	그림	painting	Bank.dinky
 11671	표지판	sign	Bank.dinky
 11672	문	door	Bank.dinky
-11673	그 은행 문	the bank door	Bank.dinky
+11673	은행 문	the bank door	Bank.dinky
 11674	나가기	Leave	Bank.dinky
 11675	은행 나가기	Leave the bank	Bank.dinky
 11676	은행 전단	bank flyers	Bank.dinky
@@ -701,21 +701,21 @@ id	text	en	loc
 11697	시골	country	Vista.dinky
 11698	고깔 표지판	traffic cone	Vista.dinky
 11699	서커스	circus	Vista.dinky
-11700	그 서커스	the circus	Vista.dinky
+11700	서커스	the circus	Vista.dinky
 11701	서커스	circus	Vista.dinky
-11702	그 서커스	the circus	Vista.dinky
+11702	서커스	the circus	Vista.dinky
 11703	호텔	hotel	Vista.dinky
 11704	에드먼드 호텔	the Edmund Hotel	Vista.dinky
 11705	호텔	hotel	Vista.dinky
 11706	에드먼드 호텔	the Edmund Hotel	Vista.dinky
 11707	공장	factory	Vista.dinky
-11708	그 공장	the factory	Vista.dinky
+11708	공장	the factory	Vista.dinky
 11709	방사능 분화구	radioactive crater	Vista.dinky
 11710	에드먼드 맨션 저택	Edmund Mansion mansion	Vista.dinky
 11711	방사능 분화구	a radioactive crater	Vista.dinky
 11712	우리 옛날 맨션 저택	our old Mansion mansion	Vista.dinky
 11713	라디오 방송국	radio station	Vista.dinky
-11714	그 라디오 방송국	the radio station	Vista.dinky
+11714	라디오 방송국	the radio station	Vista.dinky
 11715	FORTRAN⏎	FORTRAN⏎	Book.dinky
 11716	입문⏎	An introduction⏎	Book.dinky
 11717	⏎	⏎	Book.dinky
@@ -759,7 +759,7 @@ id	text	en	loc
 11755	팀블위드의 나쁜 식수 수질	Our bad Thimbleweed drinking water quality	Note.dinky
 11756	역겨운 것	Something disgusting	Note.dinky
 11757	토머스 제퍼슨 대통령에 관한 기사	Story about President Thomas Jefferson	Note.dinky
-11758	고대의 사어(死語)들을 살펴보기	A look at the dead languages of antiquity	Note.dinky
+11758	고대의 사어들을 살펴보기	A look at the dead languages of antiquity	Note.dinky
 11759	고양이와 함께 사는 유머에 관한 폭로 기사	Exposé on the humor of living with cats	Note.dinky
 11760	공공기물 파손	Government property vandalism	Note.dinky
 11761	에드먼드 호텔 폐업에 관한 기사	Piece on the closing of the Edmund Hotel	Note.dinky
@@ -770,7 +770,7 @@ id	text	en	loc
 11766	팀블콘 '88 홍보성 기사	Puff-piece on ThimbleCon '88	Note.dinky
 11767	마을을 조망하는 항공 사진	Birds-eye view of the town	Note.dinky
 11768	우리의 신입 포토저널리스트 사진 찍기	Take a photo of our newest photojournalist	Note.dinky
-11769	시(詩) 코너용 기사	Story for the poetry section	Note.dinky
+11769	시 코너용 기사	Story for the poetry section	Note.dinky
 11770	유명인 기사용 얼굴 사진	Headshot for a story on a celebrity	Note.dinky
 11771	위험한 직업에 종사하는 사람의 사진	Photo of a person doing a dangerous job	Note.dinky
 11772	주택 철거에 관한 기사	Story on home demolition	Note.dinky
@@ -804,11 +804,11 @@ id	text	en	loc
 11800	나가기	Leave	CoronersOffice.dinky
 11801	검시관 사무실 나가기	Leave the Coroner's Office	CoronersOffice.dinky
 11802	핑거트론 3000™	FingerTron 3000™	CoronersOffice.dinky
-11803	그 핑거트론 3000™	the FingerTron 3000™	CoronersOffice.dinky
+11803	핑거트론 3000™	the FingerTron 3000™	CoronersOffice.dinky
 11804	블러드트론 3000™	BloodTron 3000™	CoronersOffice.dinky
-11805	그 블러드트론 3000™	the BloodTron 3000™	CoronersOffice.dinky
+11805	블러드트론 3000™	the BloodTron 3000™	CoronersOffice.dinky
 11806	페이스트론 3000™	FaceTron 3000™	CoronersOffice.dinky
-11807	그 페이스트론 3000™	the FaceTron 3000™	CoronersOffice.dinky
+11807	페이스트론 3000™	the FaceTron 3000™	CoronersOffice.dinky
 11808	해골	skeleton	CoronersOffice.dinky
 11809	차트	chart	CoronersOffice.dinky
 11810	증명서	certificate	CoronersOffice.dinky
@@ -870,7 +870,7 @@ id	text	en	loc
 11866	$NOUN2$로 $NOUN1$ [긁어내기]	Scrape $NOUN1$ with $NOUN2$	VerbHelpers.dinky
 11867	$NOUN2$에 $NOUN1$ [던져넣기]	Toss $NOUN1$ in $NOUN2$	VerbHelpers.dinky
 11868	$NOUN2$로 $NOUN1$ [수리하기]	Repair $NOUN1$ with $NOUN2$	VerbHelpers.dinky
-11869	저건 손이 안 닿아요.	I can't reach that.	ActorHelpers.dinky
+11869	저건 손이 안 닿아.	I can't reach that.	ActorHelpers.dinky
 11870	나탈리한테 주기엔 먼지가 부족한 것 같아.	I don't think this is enough dust for Natalie.	DustHelpers.dinky
 11871	너무 어두워서 안 보여	It's too dark to see	DustHelpers.dinky
 11872	먼지 한 톨이네.	It's a speck of dust.	DustHelpers.dinky
@@ -900,7 +900,7 @@ id	text	en	loc
 11902	이거 기사에 완벽해!	This is perfect for the story!	Inventory.dinky
 11903	이제 두 장밖에 안 남았어.	I only have two shots left.	Inventory.dinky
 11904	이제 한 장밖에 안 남았어, 제대로 찍어야겠다.	I only have one shot left, I better make it count.	Inventory.dinky
-11905	내 믿음직한 스냅트론3000™이네.	It's my trusting SnapTron3000™.	Inventory.dinky
+11905	내 믿음직한 스냅트론 3000™이네.	It's my trusting SnapTron3000™.	Inventory.dinky
 11906	열 장 남았어.	I have ten shots left.	Inventory.dinky
 11907	아홉 장 남았어.	I have nine shots left.	Inventory.dinky
 11908	여덟 장 남았어.	I have eight shots left.	Inventory.dinky
@@ -1000,15 +1000,15 @@ id	text	en	loc
 12002	엄마가 언젠가 우리도 다시 돈이 생길 거래요.	Lenore says someday we'll have money again.	Chuckie.yack
 12003	그거 좋네.	That's nice.	Chuckie.yack
 12004	안녕하세요, 검시관님!	Hi Coroner!	Coroner.yack
-12005	안녕하신가-어후, 딜로리스.	Hello-a-who Delores.	Coroner.yack
+12005	안녕하세요-어후, 딜로리스.	Hello-a-who Delores.	Coroner.yack
 12006	언제부터 다 '어후'를 붙이기 시작하신 거예요?	When did you start adding 'a-who' after everything?	Coroner.yack
 12007	저요! 방금 또 그러셨잖아요!	Right there! You just did it again!	Coroner.yack
 12008	아무튼-어후.	Whatever-a-who.	Coroner.yack
 12009	보안관님이랑 코미디 팀 결성하셔도 되겠어요.	You and the Sheriff should form a comedy team.	Coroner.yack
 12010	팀블위드 파크에서 죽는 사람이 많진 않죠?	Not a lot of deaths in Thimbleweed Park, are there?	Coroner.yack
 12011	보리스라는 사람이 살해당했다는 걸 어디서 읽은 것 같은데요?	Did I read about someone named Boris being murdered?	Coroner.yack
-12012	보안관님이 자넬 보고 싶어 하시네요.	Sheriff wants to see you.	Coroner.yack
-12013	보안관님이 또 자넬 보고 싶어 하시네요.	Sheriff wants to see you again.	Coroner.yack
+12012	보안관님이 딜로리스를 보고 싶어 하시네요.	Sheriff wants to see you.	Coroner.yack
+12013	보안관님이 또 딜로리스를 보고 싶어 하시네요.	Sheriff wants to see you again.	Coroner.yack
 12014	저 가봐야 해서... 안녕히 계세요.	Got to run... bye.	Coroner.yack
 12015	딱히요.	Not really.	Coroner.yack
 12016	제가 왜 아직도 이 일을 하고 있는지 모르겠네요-어후.	I'm not sure why I still have a job.	Coroner.yack
@@ -1040,7 +1040,7 @@ id	text	en	loc
 12042	갑자기 스모어가 당기네.	I suddenly have a craving for s'mores.	Lenore.yack
 12043	그 잘난 척 좀 그만해!	Enough with the wise-cracks!	Lenore.yack
 12044	네가 척 삼촌을 컴퓨터에 그냥 놔뒀으면, 삼촌은 죽었을 거고 내가 유산을 받았을 텐데.	If you'd left Uncle Chuck in the computer, he would have died and I'd have gotten my inheritance.	Lenore.yack
-12045	근데 아직 살아있고 정신병원에 있어서 법적으로 손 못 대.	But he's still alive and in a sanitarium and legally out-of-reach.	Lenore.yack
+12045	근데 아직 살아 있고 정신병원에 있어서 법적으로 손 못 대.	But he's still alive and in a sanitarium and legally out-of-reach.	Lenore.yack
 12046	너 맨션 저택에서 쫓겨난 거야?	You got evicted from the Mansion mansion?	Lenore.yack
 12047	갈 데가 없는 거야?	You have no place to go?	Lenore.yack
 12048	나랑 같이 지내는 건 어때?	You could bunk with me?	Lenore.yack
@@ -1048,7 +1048,7 @@ id	text	en	loc
 12050	은행 채용 공고 나온 사진이 있어.	I have a photo that shows a job opening at the bank.	Lenore.yack
 12051	은행에 일자리가 났어.	There is a job opening at the bank.	Lenore.yack
 12052	일자리 구해본 적 있어?	Have you tried to get a job?	Lenore.yack
-12053	너 꼬마 처키 좋아하는 줄 알았는데?	I thought you loved little Chuckie?	Lenore.yack
+12053	너 꼬마 척키 좋아하는 줄 알았는데?	I thought you loved little Chuckie?	Lenore.yack
 12054	날씨 좋네.	Nice weather.	Lenore.yack
 12055	새 랜섬 쇼 봤어?	Seen the new Ransome show yet?	Lenore.yack
 12056	또 보자, 언니.	See ya around, sis.	Lenore.yack
@@ -1058,7 +1058,7 @@ id	text	en	loc
 12060	은행이 에드먼드 맨션 저택을 압류해서 나랑 그 꼬맹이, 그리고 내 쓸모없는 남편 피터를 쫓아냈어.	The bank repossessed the Edmund Mansion mansion and evicted me and the little brat and my worthless husband Peter.	Lenore.yack
 12061	이봐.	Hey.	Lenore.yack
 12062	내가 챙길 수 있었던 건 그 도서관에 있던 형편없는 의자뿐이었어.	All I got to take was that crappy chair from the library.	Lenore.yack
-12063	하나도 없어! 삼군 지역 상류층 사교 모임에서 전부 블랙리스트에 올랐다고.	None! I've been blacklisted by all the high society places in the tri-county area.	Lenore.yack
+12063	하나도 없어! 트라이카운티 지역 상류층 사교 모임에서 전부 블랙리스트에 올랐다고.	None! I've been blacklisted by all the high society places in the tri-county area.	Lenore.yack
 12064	척 삼촌 이름까지 따서 지었는데...	I named him after Uncle Chuck and everything...	Lenore.yack
 12065	...그게 무슨 소용이었어?	...what good did it do?	Lenore.yack
 12066	아무 소용없었어! 쫓겨났잖아!	Nothing! Evicted!	Lenore.yack
@@ -1099,7 +1099,7 @@ id	text	en	loc
 12101	내 은행 잔액 다시 좀 확인해줄 수 있어?	Can you check my bank balance again?	Lenore.yack
 12102	날씨 좋네.	Nice weather.	Lenore.yack
 12103	그러니까...	So...	Lenore.yack
-12104	처키는 잘 있어?	How is Chuckie?	Lenore.yack
+12104	척키는 잘 있어?	How is Chuckie?	Lenore.yack
 12105	안녕, 고마워.	Goodbye and thanks.	Lenore.yack
 12106	어디 보자...	Let me see...	Lenore.yack
 12107	네 잔액은...	You have...	Lenore.yack
@@ -1180,7 +1180,7 @@ id	text	en	loc
 12182	포트란 관련 책 있어요?	Got any books on Fortran?	Morena.yack
 12183	제일 위쪽에 하나 있을지도 몰라요.	Might be one at the very top.	Morena.yack
 12184	찾으면 가져가도 돼요.	If you find it, you can take it.	Morena.yack
-12185	우리한테 필요한 사어(死語) 책은 고대 캡시판어뿐이에요.	The only dead languages we need books on is ancient capsipan.	Morena.yack
+12185	우리한테 필요한 사어 책은 고대 캡시판어뿐이에요.	The only dead languages we need books on is ancient capsipan.	Morena.yack
 12186	새 일이 너무 기대돼!	I'm excited about my new job!	Natalie.yack
 12187	나탈리가 날 니켈 뉴스 사진기자로 고용했어.	Natalie has hired me to be the Nickel News photographer.	Natalie.yack
 12188	빨리 시작하고 싶어!	I can't wait to get started!	Natalie.yack
@@ -1275,7 +1275,7 @@ id	text	en	loc
 12277	고마워요! 잠시만요.	Thanks! Excuse me.	Sandy.yack
 12278	진짜 목말랐나 봐!	I guess I was really thirsty!	Sandy.yack
 12279	다음에 봐요, 딜로리스.	Later, Delores.	Sandy.yack
-12280	얘기할-아레노 기분 아니니까, 그냥 좀 내버려 둬!	I'm not in a talking-a-reno mood, just let me out!	Sheriff.yack
+12280	얘기할-아레노 기분 아니니까, 그냥 좀 내보내 줘!	I'm not in a talking-a-reno mood, just let me out!	Sheriff.yack
 12281	안녕하세요 보안관님!	Hi Sheriff!	Sheriff.yack
 12282	안녕하신가-레노, 딜로리스.	Hello-a-reno Delores.	Sheriff.yack
 12283	언제부터 다 '아레노'를 붙이기 시작하신 거예요?	When did you start adding 'a-reno' after everything?	Sheriff.yack
@@ -1291,7 +1291,7 @@ id	text	en	loc
 12293	아마 힘든 시기를 겪고 있나 보네요.	Probably fell on hard times.	Sheriff.yack
 12294	아니면 완전 거만한 인간이라 당해도 싸거나.	Or she is a complete pompous jerk and deserves everything she gets.	Sheriff.yack
 12295	뭘 물어보는지 이해가 안 되는데-레노?	I don't understand-a-reno what you're asking?	Sheriff.yack
-12296	약이라도 하신 거예요-레노? 그냥 노(No)라고 하세요-레노.	Are you on drugs-a-reno? Just say no-a-reno.	Sheriff.yack
+12296	약이라도 했나-레노? 그냥 노(No)라고 하게-레노.	Are you on drugs-a-reno? Just say no-a-reno.	Sheriff.yack
 12297	이봐, '아레노' 개그는 내 거야-레노!	Hey, the 'a-reno' gag is mine!	Sheriff.yack
 12298	하! 걸렸다!	Ha! Got ya!	Sheriff.yack
 12299	뭐라고-레노!	What-a-reno!	Sheriff.yack
