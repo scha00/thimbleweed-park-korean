@@ -48,7 +48,7 @@
 | PillowBear™ | 필로우베어™ |
 | county map | (카운티) 지도 |
 | Ricki's Tubes / Tubes 4 Rubes™ / Tubular Tubes™ / Down the Tubes™ / Tube-tastic™ / Tube Town™ / You Tube™ (리키 가게 이름 후보들) | 리키의 튜브 가게 / 루브를 위한 튜브™ / 튜블러 튜브™ / 다운 더 튜브™ / 튜브태스틱™ / 튜브 타운™ / 유튜브™ |
-| Carney Joe (인물) | 카니발 조 |
+| Carney Joe (인물) | 카니 조 |
 | Colossal Dungeon Cave Quest II (척 컴퓨터 속 텍스트 어드벤처, 실제 게임 패러디) | 콜로설 던전 케이브 퀘스트 II |
 | "fizzrum"/"fizzscumm" (SCUMM 엔진 패러디 마법 주문) | "피즈럼"/"피즈스컴" (음역, SCUMM 발음 유지) |
 
