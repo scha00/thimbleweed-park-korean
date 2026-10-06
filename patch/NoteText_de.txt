@@ -32,7 +32,7 @@
 ?makeup? 화장 다시 지워보기.
 ?factory? 베개 공장 침입하기.
 ?factorykey? 공장 정문 열쇠 구하기.
-?thimblecon? *삐-* 씸블콘 티켓 따내기.
+?thimblecon? *삐-* 팀블콘 티켓 따내기.
 ?jokepages? 잃어버린 농담집 페이지 찾기.
 ?factorydeeper? 공장 더 깊이 들어가서 내 시제품 인형 찾기.
 ?dust? 먼지 조각 $specksLeft()$개 더 모으기.
@@ -63,8 +63,8 @@
 ?factorykey? 공장 정문 열쇠 구하기.
 ?lenore? 도서관에서 레노어랑 얘기하기.
 ?readwill? 변호사한테 삼촌 유언장 읽어달라고 하기.
-?findlawyer? 씸블콘에서 변호사 찾기.
-?thimblecon? 씸블콘 티켓 따내기.
+?findlawyer? 팀블콘에서 변호사 찾기.
+?thimblecon? 팀블콘 티켓 따내기.
 ?decryptwill? 변호사를 위해 척의 유언장 암호 풀기.
 ?favoritenumber? 척 삼촌의 행운의 숫자 찾아서 쓰기.
 ?thimbleberrypie? 변호사한테 줄 팀블베리 파이 구하기.

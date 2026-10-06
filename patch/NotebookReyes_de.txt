@@ -76,7 +76,7 @@
 ?fixwatch? 아빠 시계 고치기.
 ?factory? 베개 공장 들어가기.
 ?factorykey? 공장 정문 열쇠 구하기.
-?thimblecon? 굉장한 씸블콘 티켓 따내기.
+?thimblecon? 굉장한 팀블콘 티켓 따내기.
 ?kidnap2? 정신을 잃었던 것 같다. 좋아, 이제.
 ?factorydeeper? 공장 더 깊이 들어가서 아버지 누명 벗길 증거 찾기.
 ?dust? 먼지 조각 $specksLeft()$개 더 모으기.

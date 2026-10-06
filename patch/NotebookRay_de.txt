@@ -64,7 +64,7 @@
 ?pillowtron? 베개 공장 AI의 비밀 훔치기.
 ?factory? 베개 공장 침입하기.
 ?factorykey? 공장 정문 열쇠 구하기.
-?thimblecon? 너드 씸블콘 티켓 따내기.
+?thimblecon? 너드 팀블콘 티켓 따내기.
 ?factorydeeper? 공장 더 깊이 들어가서 AI의 비밀 훔치기.
 ?kidnap2? 정신을 잃었던 것 같다. 좋아, 이제.
 ?dust? 먼지 조각 $specksLeft()$개 더 모으기.

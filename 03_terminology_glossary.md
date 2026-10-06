@@ -22,7 +22,7 @@
 | 영문 | 한글 표기 |
 |---|---|
 | Pillow Factory | 베개 공장 |
-| ThimbleCon | 씸블콘 |
+| ThimbleCon | 팀블콘 |
 | PillowTronics | 필로트로닉스 |
 | Edmund Hotel | 에드먼드 호텔 |
 | Safely First Savings (은행) | 세이플리 퍼스트 저축은행 |
@@ -43,7 +43,7 @@
 
 | 영문 | 한글 표기 |
 |---|---|
-| ThimbleCon ticket | 씸블콘 티켓 |
+| ThimbleCon ticket | 팀블콘 티켓 |
 | Ransome the Clown Wallet™ | 랜섬 더 클라운 지갑™ |
 | PillowBear™ | 필로우베어™ |
 | county map | (카운티) 지도 |
